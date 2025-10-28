@@ -1,7 +1,7 @@
 # Housing-Price-Prediction
 An end-to-end machine learning project to predict median housing prices in California using Scikit-Learn pipelines.
 
-# California Housing Price Prediction 🏡
+## California Housing Price Prediction 🏡
 
 This is based on chapter 2 of the book "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow" 
 
